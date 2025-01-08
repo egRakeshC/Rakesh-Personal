@@ -17,7 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egrakeshc&show_icons=true&locale=en" alt="egrakeshc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egrakeshc&" alt="egrakeshc" /></p>
-
-
-
-![UIBranch drawio](https://github.com/user-attachments/assets/154cf9fb-7c58-425c-9dfc-527156908e6c)
